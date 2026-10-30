@@ -1,0 +1,8 @@
+
+# Brud Code workspace history
+.brud/
+build/
+dist/
+*.zip
+*.rar
+*.7z
